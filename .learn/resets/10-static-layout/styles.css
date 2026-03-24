@@ -1,12 +1,4 @@
 /* your code here */
-.secondWrapper {
-	display: flex;
-	padding: 10px;
-	gap: 10px;
-}
-.secondWrapper section {
-	width: 80%;
-}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
